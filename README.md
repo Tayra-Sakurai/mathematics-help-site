@@ -1,5 +1,7 @@
 # mathematics-help-site
-A forum site with people good at mathematics and AI
+_A forum site with people good at mathematics and AI_
+
+This project is going to be connected to [http://tamu64.php.xdomain.jp]. Also this project is provided as an open-source platform.
 
 ## Main Features
 
